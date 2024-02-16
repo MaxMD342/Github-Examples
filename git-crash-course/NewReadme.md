@@ -12,3 +12,9 @@ Code
 ## Stashing
 
 ## Merging
+
+Just test
+
+```
+git commit
+```

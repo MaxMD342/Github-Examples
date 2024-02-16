@@ -1,5 +1,10 @@
 ## Commits
 
+Just text
+```
+Code
+```
+
 ## Branches
 
 ## Remotes
